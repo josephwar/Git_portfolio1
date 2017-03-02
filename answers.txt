@@ -1,0 +1,5 @@
+cat hello_world.txt > hello_copy.txt
+
+'thats how to copy the context of one file into another'
+
+
